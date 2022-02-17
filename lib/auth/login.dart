@@ -38,7 +38,7 @@ class _LoginState extends State<Login> {
                       // color: Color(0XFF4F4FA4),
                     ),
                     Text(
-                      'Flutter Chat',
+                      'GitHub Chat',
                       textAlign: TextAlign.center,
                       style: GoogleFonts.redressed(
                         letterSpacing: 5,
